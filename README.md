@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # epiTCR
 
 epiTCR is a highly sensitive predictor for TCR-peptide binding. epiTCR uses TCR CDR3b sequences and peptide sequences as input. Additionally, users can also provide full length MHC to the tool. The output produces the predicted binding probability. 
@@ -71,3 +72,6 @@ Please cite this paper if it helps your research:
 ```
 
 ## References
+=======
+# EpiTCR
+>>>>>>> 48f91cb2f0a7686fa7bf4fccc2425bdefec54c33
